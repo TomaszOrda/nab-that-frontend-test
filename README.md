@@ -1,33 +1,4 @@
-[English version below](#recruitment-task)
-
 [Preview on Vercel](https://nabthat-frontend-test.vercel.app)
-
-# Zadanie rekrutacyjne
-
-Zadanie wykonałem używając frameworka Angular. Nie miałem wcześniej żadnego doświadczenia z tym frameworkiem, więc części kodu mogą nie spełniać najwyższych standardów. Wykonane zadania:
-
-## CEL
-
-Wykonałem wszystkie główne cele i spełniłem wszystkie warunki.
-
-## CELE DODATKOWE
-
-Wykonałem większość dodatkowych zadań. Pozostałe nie zostały ukończone z powodu małego doświadczenia i braku czasu.
-
-- Użyłem frameworka Angular.
-- Nie dołączyłem żadnych plików graficznych — jednakże w projekcie znajduje się svg w formie tekstowej, prezentujące logo HTML5.
-- Ramka CSS IS AWESOME obraca się po najechaniu kursorem.
-- ❌ Nie zaimplementowałem BEM.
-- ❌ Nie zaimplementowałem a11y.
-- I think my choice of CSS units is on point.
-- ❌ Strona nie została zrobiona mobile first.
-- Paragrafy w ostatnim bloku są sortowane alfabetycznie.
-- Alerty informują o niemożności doklejenia wybranego paragrafu.
-- Przycisk ("Pokaż") nie używa JavaScript.
-- ❌ Wrzuciłem podgląd projektu na platformę Vercel.
-- ❌ Nie zaimplementowałem localStorage.
-
-<br><br>
 
 # Recruitment task
 
